@@ -5,10 +5,10 @@ Fiat payment processor with many local payment methods with the merchant always 
 - Supports on-chain and Lighning Network payments.
 - Supports USDt on TRON
 - Supports fiat with the merchant always receiving bitcoins.  
-- Invoicing app 
-- Ecommerce app
-- Booking app 
-- Cloud app with all the previous one.
+- Invoicing service and app
+- Ecommerce service adn app
+- Booking service and app 
+- Cloud app with all the previous services.
 
 ## Target
 - Bitcoin enthusiasts: you believe in Bitcoin sound money but at the same time you know that Bitcoin is not widely used as you wish. This tool allows you to reach the traditional market without touching fiat money.  
