@@ -34,7 +34,7 @@ Of the 3 planned services (invoicing, ecommerce, booking) I'm still working on b
 -   - The fee is set by the merchant and paid by the buyer. To find a match it should be between 5 and 10%.
     - 1000 CHF (or equivalent in other currency) amount limit for each payment.
       
- ## Main repos
+## Main repos
 
 ### [p2pay-invoicing](https://github.com/p2payserver/p2pay-invoicing)
 To be started
