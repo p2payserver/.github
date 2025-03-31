@@ -57,6 +57,13 @@ Under active development
 ![Stars](https://img.shields.io/github/stars/p2payserver/p2pay-booking?style=social)
 ![Forks](https://img.shields.io/github/forks/p2payserver/p2pay-booking?style=social)
 
+### [p2pay-cloud](https://github.com/p2payserver/p2pay-cloud)
+Development started and currently paused
+
+![language](https://img.shields.io/github/languages/top/p2payserver/p2pay-cloud)
+![Stars](https://img.shields.io/github/stars/p2payserver/p2pay-cloud?style=social)
+![Forks](https://img.shields.io/github/forks/p2payserver/p2pay-cloud?style=social)
+
 ### [p2pay-website](https://github.com/p2payserver/p2pay-website)
 Development started and currently paused
 
