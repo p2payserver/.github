@@ -1,4 +1,11 @@
-Fiat payment processor with many local payment methods with the merchant always receiving bitcoin.
+Fiat payment processor with many local fiat payment methods with the merchant always receiving bitcoin.
+
+## Status
+I'm working on the Peach API implementation, but I'm stack waiting that a new endpoint is added to publish a buy offer for a fixed amount.
+Fiat integration with Robosat. To be considered if feasible
+Fiat integration with Mostro. To be considered if feasible
+Fiat integration with hodl Hodl. To be considered if feasible
+Of the 3 planned services (invoicing, ecommerce, booking) I'm still working on booking as the first one because it is probably the most time consuming to implement.
 
 ## Features
 - Self custodial solution with btcpay server integration.  
@@ -23,6 +30,6 @@ Fiat payment processor with many local payment methods with the merchant always 
 - USDt: on Tron if you have the plugin on btcpay.
     - No fee.
     - No amount limit
-- Fiat: All the currencies and local payment methods supported by [Peach Bitcoin](https://peachbitcoin.com) as listed [here](https://api.peachbitcoin.com/v1/info). Tens of local payment methods in Europe, LATAM, Africa with more to come, US excluded.
+- Fiat: All the currencies and local payment methods supported by [Peach Bitcoin](https://peachbitcoin.com) as listed [here](https://api.peachbitcoin.com/v1/info). Tens of local payment methods in Europe, LATAM, Africa with more to come, US excluded. Other p2p platforms integration will be evaluated.
 -   - The fee is set by the merchant and paid by the buyer. To find a match it should be between 5 and 10%.
     - 1000 CHF (or equivalent in other currency) amount limit for each payment. 
