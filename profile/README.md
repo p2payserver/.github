@@ -12,10 +12,10 @@ Of the 3 planned services (invoicing, ecommerce, booking) I'm still working on b
 - Supports on-chain and Lighning Network payments.
 - Supports USDt on TRON
 - Supports fiat with the merchant always receiving bitcoins.  
-- Invoicing service and app
-- Ecommerce service adn app
-- Booking service and app 
-- Cloud app with all the previous services.
+- Invoicing: single user stand-alone service
+- Ecommerce: single user stand-alone service
+- Booking: single user stand-alone service
+- Cloud: multiple users cloud app with all the previous services included.
 
 ## Target
 - Bitcoin enthusiasts: you believe in Bitcoin sound money but at the same time you know that Bitcoin is not widely used as you wish. This tool allows you to reach the traditional market without touching fiat money.  
@@ -32,4 +32,37 @@ Of the 3 planned services (invoicing, ecommerce, booking) I'm still working on b
     - No amount limit
 - Fiat: All the currencies and local payment methods supported by [Peach Bitcoin](https://peachbitcoin.com) as listed [here](https://api.peachbitcoin.com/v1/info). Tens of local payment methods in Europe, LATAM, Africa with more to come, US excluded. Other p2p platforms integration will be evaluated.
 -   - The fee is set by the merchant and paid by the buyer. To find a match it should be between 5 and 10%.
-    - 1000 CHF (or equivalent in other currency) amount limit for each payment. 
+    - 1000 CHF (or equivalent in other currency) amount limit for each payment.
+      
+ ## Main repos
+
+### [p2pay-invoicing](https://github.com/p2payserver/p2pay-invoicing)
+To be started
+
+![language](https://img.shields.io/github/languages/top/p2payserver/p2pay-invoicing)
+![Stars](https://img.shields.io/github/stars/p2payserver/p2pay-invoicing?style=social)
+![Forks](https://img.shields.io/github/forks/p2payserver/p2pay-invoicing?style=social)
+
+### [p2pay-ecommerce](https://github.com/p2payserver/p2pay-ecommerce)
+Specs mostly defined
+
+![language](https://img.shields.io/github/languages/top/p2payserver/p2pay-ecommerce)
+![Stars](https://img.shields.io/github/stars/p2payserver/p2pay-ecommerce?style=social)
+![Forks](https://img.shields.io/github/forks/p2payserver/p2pay-ecommerce?style=social)
+
+### [p2pay-booking](https://github.com/p2payserver/p2pay-booking)
+Under active development
+
+![language](https://img.shields.io/github/languages/top/p2payserver/p2pay-booking)
+![Stars](https://img.shields.io/github/stars/p2payserver/p2pay-booking?style=social)
+![Forks](https://img.shields.io/github/forks/p2payserver/p2pay-booking?style=social)
+
+### [p2pay-cloud](https://github.com/p2payserver/p2pay-cloud)
+Development started and currently paused
+
+![language](https://img.shields.io/github/languages/top/p2payserver/p2pay-cloud)
+![Stars](https://img.shields.io/github/stars/p2payserver/p2pay-cloud?style=social)
+![Forks](https://img.shields.io/github/forks/p2payserver/p2pay-cloud?style=social)
+
+
+
