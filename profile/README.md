@@ -1,11 +1,11 @@
 Fiat payment processor with many local fiat payment methods with the merchant always receiving bitcoin.
 
 ## Status
-I'm working on the Peach API integration, but I'm stack waiting that a new endpoint is added to publish a buy offer for a fixed amount.
+I'm working on the Peach API integration, but I'm stack waiting that a new endpoint is added to publish a buy offer for a fixed amount.  
 Fiat integration with Robosat. To be considered if feasible  
 Fiat integration with Mostro. To be considered if feasible  
 Fiat integration with hodl Hodl. Can't be implemented since it requires the account creation manually the last time that I checked  
-Of the 3 planned services (invoicing, ecommerce, booking) I'm still working on booking as the first one because it is probably the most time consuming to implement.
+Of the 3 planned services (invoicing, ecommerce, booking) I'm still working on booking as the first one because it is probably the most time consuming to implement.  
 
 ## Features
 - Self custodial solution with btcpay server integration.  
